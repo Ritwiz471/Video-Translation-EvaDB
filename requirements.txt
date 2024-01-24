@@ -1,1 +1,4 @@
+wget
+numpy
+pandas
 evadb==0.3.7
