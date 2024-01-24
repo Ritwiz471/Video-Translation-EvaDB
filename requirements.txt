@@ -1,4 +1,6 @@
 wget
 numpy
 pandas
+cv2
+matplotlib
 evadb==0.3.7
